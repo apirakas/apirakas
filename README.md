@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Anthon Pirakas and I'm currently studying at HEIG-VD.
+I am Anthon Pirakas.
 
 <!--
 **apirakas/apirakas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
